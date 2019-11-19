@@ -1,0 +1,58 @@
+.derecha {
+position: absolute;
+right: 1%;
+}
+.bl{
+  background-color: white;
+}
+.ng{
+  background: black;
+}
+.white{
+  color: white;
+
+  text-align:center
+}
+
+.footer{
+  text-decoration-color: white;
+  color:white;
+  height:20px;
+}
+.display-none{
+  visibility: hidden;
+}
+
+.bloque {
+  height: 100%;
+  width: 100%;
+  background-color: RGB(255, 160, 122);
+}
+
+.siif {
+  position: relative;
+letter-spacing: 30%;
+  height: 90px;
+  width: 140px;
+}
+
+.siif1 {
+  position: relative;
+
+  font-family: Arial, serif;
+  font-family: cursive, italic;
+  font-size: 50px;
+}
+
+.siif2 {
+  position: relative;
+
+  font-family: Arial, serif;
+  font-family: cursive, italic;
+  font-size: 50px;
+}
+
+.inv {
+  height: 400px;
+  width: 400px;
+}
