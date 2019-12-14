@@ -1,0 +1,110 @@
+.derecha {
+position: absolute;
+max-width: 100%;
+right: 1%;
+}
+.derecha2 {
+position: absolute;
+max-width: 100%;
+right: 7%;
+}
+.bl{
+  max-width: 100%;
+  background-color: white;
+}
+.ng{
+  background: black;
+}
+.white{
+  color: white;
+
+  text-align:center
+}
+
+.footer{
+  text-decoration-color: white;
+  color:white;
+  height:20px;
+}
+.display-none{
+  visibility: hidden;
+}
+
+.bloque {
+  max-width: 0 auto;
+	margin: 0 auto;
+  background-color: RGB(255, 160, 122);
+}
+
+.siif {
+  max-width: 100%;
+  position: relative;
+  letter-spacing: 30%;
+  height: 90px;
+  width: 140px;
+}
+
+.siif1 {
+  font-family: Arial, serif;
+  font-family: cursive, italic;
+
+}
+
+.siif2 {
+  position: relative;
+max-width: 100%;
+  font-family: Arial, serif;
+  font-family: cursive, italic;
+  font-size: 50px;
+}
+
+.inv {
+  max-width: 100%;
+  height: 400px;
+  width: 400px;
+}
+
+html{
+ height: 100%;
+}
+body{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+
+}
+
+.img-admi{
+	padding: 2em;
+}
+
+.text-derecha{
+  max-width: 100%;
+	width: 40%;
+	padding: 2em;
+	vertical-align: top;
+}
+.img-admi, .text-derecha, .menu-item {
+	display: inline-block;
+}
+.MD {
+  max-width: 100%;
+  height: 400px;
+  width: 400px;
+
+}
+.usuario{
+	max-width: 1024px;
+	margin: 0 auto;
+}
+.grafica{
+  width: 100%;
+  height: 100%;
+
+}
+.texwhite{
+  color: white;
+}
+.center1{
+ text-align: center;
+ }
